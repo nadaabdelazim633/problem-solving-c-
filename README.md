@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/nadaabdelazim633/problem-solving-c-/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/nadaabdelazim633/problem-solving-c-/tree/master/0070-climbing-stairs) |
+| [0412-fizz-buzz](https://github.com/nadaabdelazim633/problem-solving-c-/tree/master/0412-fizz-buzz) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -29,4 +30,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/nadaabdelazim633/problem-solving-c-/tree/master/0013-roman-to-integer) |
+| [0412-fizz-buzz](https://github.com/nadaabdelazim633/problem-solving-c-/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/nadaabdelazim633/problem-solving-c-/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
